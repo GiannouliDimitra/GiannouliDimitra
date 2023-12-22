@@ -9,7 +9,7 @@ About me:
 • In my free time, I like learning new technologies, reading books and also hiking! 🥾
 
 Languages and Tools:
-![62cc1b3a150d5de9a3dad5f7](https://github.com/GiannouliDimitra/GiannouliDimitra/assets/132345098/a5a5b625-3be9-488d-a1f9-f9f8b97fae52)
+![62cc1b3a150d5de9a3dad5f7](https://github.com/GiannouliDimitra/GiannouliDimitra/assets/132345098/a5a5b625-3be9-488d-a1f9-f9f8b97fae52) | width=50
 
 
 
