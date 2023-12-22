@@ -4,9 +4,9 @@
 ## About me:
 🙅‍♀️ I am Dimitra, a Full Stack Web developer.
 
-• I just completed the 7 month Full Stack course with Social Hackers Academy.
-• I am passionate with coding. I like building Apps that are user friendly!
-• In my free time, I like learning new technologies, reading books and also hiking! 🥾
+- I just completed the 7 month Full Stack course with Social Hackers Academy.
+- I am passionate with coding. I like building Apps that are user friendly!
+- In my free time, I like learning new technologies, reading books and also hiking! 🥾
 
 Languages and Tools:
 
