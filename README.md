@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello! 👋
 
+<img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxyMWxuMGZod2Frc2FvaWhmZ3p4Y2MxcHRlcm51dXR0OTFseTY2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P1ave180ZlqbGtVLm7/giphy.gif">
 
 ## About me:
 🙅‍♀️ I am Dimitra, a Full Stack Web developer.
