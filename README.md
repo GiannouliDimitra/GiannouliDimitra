@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-About me:
+## About me:
 🙅‍♀️ I am Dimitra, a Full Stack Web developer.
 
 • I just completed the 7 month Full Stack course with Social Hackers Academy.
@@ -9,20 +9,6 @@ About me:
 • In my free time, I like learning new technologies, reading books and also hiking! 🥾
 
 Languages and Tools:
-![62cc1b3a150d5de9a3dad5f7](https://github.com/GiannouliDimitra/GiannouliDimitra/assets/132345098/a5a5b625-3be9-488d-a1f9-f9f8b97fae52) | width=50
 
-
-
-**GiannouliDimitra/GiannouliDimitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src= "https://github.com/GiannouliDimitra/GiannouliDimitra/assets/132345098/a2cdb5aa-548c-4517-852b-0e1e15cf778a)" width="20">
+<img src= "https://github.com/GiannouliDimitra/GiannouliDimitra/assets/132345098/2c92a30a-d05b-4aeb-bea0-b5b6e7cb4da8" width="20">
