@@ -29,5 +29,8 @@
 
 <img src= "https://github.com/GiannouliDimitra/GiannouliDimitra/assets/132345098/5986b5b0-c3d3-4947-8f3c-c84169419d5d" width="40">
 
+<img src= "https://github.com/GiannouliDimitra/GiannouliDimitra/assets/132345098/65ed4c39-c8a3-44be-9e31-468acb8aa110" width="30">
+
+
 
 
